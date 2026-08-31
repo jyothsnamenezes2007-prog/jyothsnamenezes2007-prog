@@ -1,5 +1,6 @@
 # 💫 About Me:
 Computer Science &Engineering Student @NMAMIT||CSE'29
+
 [![Page Views](https://komarev.com/ghpvc/?username=jyothsnamenezes2007-prog&color=blue)](https://github.com/jyothsnamenezes2007-prog)
 
 ## 🌐 Socials:

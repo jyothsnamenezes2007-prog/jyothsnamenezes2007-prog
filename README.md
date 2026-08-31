@@ -1,6 +1,6 @@
 # 💫 About Me:
 Computer Science &Engineering Student @NMAMIT||CSE'29
-
+[![Page Views](https://komarev.com/ghpvc/?username=jyothsnamenezes2007-prog&color=blue)](https://github.com/jyothsnamenezes2007-prog)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jyothsna-riona-menezes-7433b0393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyothsnamenezes2007@gmail.com) 
